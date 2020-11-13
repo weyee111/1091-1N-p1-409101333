@@ -1,0 +1,20 @@
+#pitcure{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#pitcure img{
+    width: 17%;
+    margin: 1.4%;
+}
+
+p {
+  text-transform:uppercase;
+  font-family:fantasy;
+  font-size:100px;
+  font-weight:1000;
+  border-bottom:8px solid rgba(185, 216, 11, 0.986);
+  padding-bottom:3%;
+  width:30%;
+  margin:1.66%;
+}

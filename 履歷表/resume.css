@@ -1,0 +1,54 @@
+.container{
+    width: 100%;
+}
+
+.title{
+    text-align:left;
+}
+
+.name{
+background-color: white;
+}
+
+.content{
+background-color: white;
+}
+
+.acontent{
+    text-align:center;
+}
+
+.address{
+    background-color: white;
+    font-size: 0.01cm;
+}
+
+.phone{
+    background-color: white;
+    font-size: 0.005cm;
+}
+
+.mail{
+    background-color: white;
+    font-size: 0.005cm;
+}
+
+.year{
+    text-align:center;
+    font-size: 0.01cm;
+}
+
+.proof{
+    text-align:center;
+    font-size: 0.01cm;
+}
+
+.motor{
+    text-align:center;
+    font-size: 0.01cm;
+}
+
+.hobby{
+    text-align:center;
+    font-size: 0.01cm;
+}

@@ -1,0 +1,42 @@
+.container{
+    width: 100%;
+    margin: 20px auto;
+}
+
+.name{
+    text-align:center;
+    background-color: rgb(106, 196, 196);
+}
+
+.tableName{
+    text-align:center;
+    background-color: rgb(177, 206, 233);
+}
+.weekday{
+    text-align:center;
+    background-color: pink;
+}
+
+.number{
+    text-align:center;
+    background-color: rgb(223, 156, 12);
+}
+
+.time{
+    text-align:center;
+    background-color: rgb(211, 174, 208);
+}
+
+.content{
+    text-align:center;
+    background-color: rgb(102, 245, 19);
+}
+.contentx{
+    text-align:center;
+    background-color: rgb(220, 243, 196);
+}
+
+.contenty{
+    text-align:center;
+    background-color: crimson;
+}
